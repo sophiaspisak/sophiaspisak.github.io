@@ -1,3 +1,8 @@
 ---
-title: "This is a work in progress - check back soon!"
+image: media/lake_ski.jpeg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
 ---
