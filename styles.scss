@@ -10,7 +10,8 @@ $josefin-sans: "Josefin Sans", sans-serif;
 $off-white: #f4f8fb; //#EDF2F8 #EDF3F5 #E7ECED  #ede9e7
 $lightest-blue: #D8E4F0; // #D1DDE8 #d5e2ec
 $light-blue: #a8c6ed;
-$dark-orange: #925920; // dark-tan: #a78c72
+$dark-orange: #925920; 
+$dark-tan: #a78c72;
 $dark-green: #50512d;
 $medium-pink: #af6a88;
 
@@ -23,12 +24,12 @@ $slate-blue: #a4c5de;
 // Base document colors
 $navbar-bg: $off-white; // navbar
 $navbar-fg: $dark-green; // navbar foreground elements
-$navbar-hl: $medium-pink; // highlight color when hovering over navbar links
+$navbar-hl: $dark-orange; // highlight color when hovering over navbar links
 $body-bg: $lightest-blue; // page background 
 $body-color: $dark-green; // page text 
 $footer-bg: $lightest-blue; // footer
 $footer-fg: $dark-green; // footer foreground elements
-$link-color: $medium-pink; // hyperlinks
+$link-color: $dark-orange; // hyperlinks
 
 // Hyperlink attributes
 $link-decoration: none;
@@ -60,12 +61,12 @@ div.quarto-about-jolla .column-page { // needs troubleshooting
 }
 
 .about-link:hover {
-  color: $medium-pink !important;
-  border-color: $medium-pink !important;
+  color: $dark-orange !important;
+  border-color: $dark-orange !important;
   background-color: transparent !important; 
 }
 
 .about-link:hover i, 
 .about-link:hover span {
-  color: $medium-pink !important;
+  color: $dark-orange !important;
 }
