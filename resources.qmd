@@ -1,0 +1,14 @@
+---
+title: "Resources"
+---
+
+## Website Building
+
+- This (somewhat Macalester-specific) [student resources document](https://docs.google.com/document/d/19wlevPT0p1WF7oG9ccFEN5MrRXJBK9zHuSkVSoel6v8/edit?tab=t.0#heading=h.713tjfdypqah) and this [Quarto website guide](https://docs.google.com/document/d/1nNxCn8dGELeACHyRYQ0-IwT5QXd0XN0uEaBfhYR2ktM/edit?tab=t.0), both created by [Professor Brianna Heggeseth](https://bcheggeseth.github.io), first got me interested in creating a website.
+
+- I had never used git or Github prior to this project. The UC Santa Barbara Bren School of Environmental Science and Management's [software installation guide](https://ucsb-meds.github.io/MEDS-installation-guide/) was a great introduction to how to configure both.
+
+- Now, working with Quarto, I'm constantly referencing [Samantha Shanny-Csik's materials](https://samanthacsik.github.io) - her resources are **so** approachable, thorough, and easy to understand.
+  * [Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/)
+  * [Creating your own personal branding guide](https://ucsb-meds.github.io/EDS-296-DS-portfolios/course-materials/week2-customizing-websites.html#pre-class-prep) (under the 'Pre-class prep' section)
+  * [Customizing Quarto websites](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide) slideshow

@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
+      - resources.qmd
   page-footer: # modified version of Sam Shanny-Csik's
     background: light
     left: © Sophia Spisak 2026
