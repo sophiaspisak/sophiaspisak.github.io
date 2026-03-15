@@ -13,7 +13,7 @@ website:
   page-footer: 
     background: light
     left: © Sophia Spisak 2026
-    right: Made with {{< fa regular heart title="a heart" >}} and [Quarto](https://quarto.org/){target=_blank}
+    right: Made with {{< fa regular heart title="a heart" >}} and [Quarto](https://quarto.org/docs/websites/){target=_blank}
 
 format:
   html:
