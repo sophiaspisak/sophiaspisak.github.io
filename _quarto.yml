@@ -11,12 +11,14 @@ website:
       - about.qmd
       - projects.qmd
   page-footer: # modified version of Sam Shanny-Csik's
+    background: light
     left: © Sophia Spisak 2026
     right: Made with {{< fa regular heart title="a heart" >}} and [Quarto](https://quarto.org/docs/websites/){target=_blank}
 
 format:
   html:
     theme: styles.scss
+    mainfont: Figtree
     toc: true
     page-layout: full
 

@@ -1,5 +1,11 @@
 /*-- scss:defaults --*/
 
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+// Fonts
+$josefin-sans: "Josefin Sans", sans-serif;
+
 // Colors
 $off-white: #f4f8fb; //#EDF2F8 #EDF3F5 #E7ECED  #ede9e7
 $lightest-blue: #D8E4F0; // #D1DDE8 #d5e2ec
@@ -21,4 +27,45 @@ $navbar-hl: $medium-pink; // highlight color when hovering over navbar links
 $body-bg: $lightest-blue; // page background 
 $body-color: $dark-green; // page text 
 $footer-bg: $lightest-blue; // footer
-$link-color: $medium-pink; // hyperlinks 
+$footer-fg: $dark-green; // footer foreground elements
+$link-color: $medium-pink; // hyperlinks
+
+// Hyperlink attributes
+$link-decoration: none;
+
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $josefin-sans
+}
+
+.navbar-brand{ // from Brianna Heggeseth
+  font-family: $josefin-sans;
+  font-size: 25px;
+}
+
+div.quarto-about-jolla .column-page { // needs troubleshooting
+  color: $dark-green !important;
+}
+
+.about-link {
+  color: $dark-green !important;
+  border: 1px solid $dark-green !important;
+  opacity: 1 !important;
+}
+
+.about-link i {
+  color: $dark-green !important;
+}
+
+.about-link:hover {
+  color: $medium-pink !important;
+  border-color: $medium-pink !important;
+  background-color: transparent !important; 
+}
+
+.about-link:hover i, 
+.about-link:hover span {
+  color: $medium-pink !important;
+}

@@ -11,4 +11,4 @@ about:
       href: mailto:sspisak@macalester.edu
 ---
 
-**This website is a work in progress. Please check back soon.**
+This website is a work in progress. Please check back soon.
