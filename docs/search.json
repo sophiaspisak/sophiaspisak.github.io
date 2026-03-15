@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "More coming soon!"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "More coming soon!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sophia Spisak",
-    "section": "",
-    "text": "This website is a work in progress. Please check back soon."
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -33,5 +12,26 @@
     "title": "Resources",
     "section": "",
     "text": "This (somewhat Macalester-specific) student resources document and this Quarto website guide, both created by Professor Brianna Heggeseth, first got me interested in creating a website.\nI had never used git or Github prior to this project. The UC Santa Barbara Bren School of Environmental Science and Management’s software installation guide was a great introduction to how to configure both.\nNow, working with Quarto, I’m constantly referencing Samantha Shanny-Csik’s materials - her resources are so approachable, thorough, and easy to understand.\n\nCreating your personal website using Quarto\nCreating your own personal branding guide (under the ‘Pre-class prep’ section)\nCustomizing Quarto websites slideshow"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sophia Spisak",
+    "section": "",
+    "text": "This website is a work in progress. Please check back soon."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "More coming soon!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "More coming soon!"
   }
 ]
