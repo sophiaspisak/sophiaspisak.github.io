@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+// Colors
+$off-white: #f4f8fb; //#EDF2F8 #EDF3F5 #E7ECED  #ede9e7
+$lightest-blue: #D8E4F0; // #D1DDE8 #d5e2ec
+$light-blue: #a8c6ed;
+$dark-orange: #925920; // dark-tan: #a78c72
+$dark-green: #50512d;
+$medium-pink: #af6a88;
+
+$light-pink: #e8d4d8;
+$light-orange: #ebc8a4;
+$medium-blue: #76A0DB;
+$dark-blue: #1e5289;
+$slate-blue: #a4c5de;
+
+// Base document colors
+$navbar-bg: $off-white; // navbar
+$navbar-fg: $dark-green; // navbar foreground elements
+$navbar-hl: $medium-pink; // highlight color when hovering over navbar links
+$body-bg: $lightest-blue; // page background 
+$body-color: $dark-green; // page text 
+$footer-bg: $lightest-blue; // footer
+$link-color: $medium-pink; // hyperlinks 
