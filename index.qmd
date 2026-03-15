@@ -5,6 +5,10 @@ about:
   template: jolla
   image-shape: round
   image-width: 17em
+  links: # create buttons
+    - icon: envelope
+      text: Email
+      href: mailto:sspisak@macalester.edu
 ---
 
 **This website is a work in progress. Please check back soon.**
