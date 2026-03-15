@@ -2,13 +2,23 @@
 image: media/lake_ski.jpeg
 toc: false
 about:
-  template: jolla
-  image-shape: round
-  image-width: 17em
+  template: trestles
+  image-shape: rectangle
+  image-width: 25em
   links: # create buttons
     - icon: envelope
       text: Email
       href: mailto:sspisak@macalester.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sophia-spisak-b62376256/
+      target: _blank
 ---
 
-This website is a work in progress. Please check back soon.
+\
+\
+\
+
+Hi! I'm Sophia Spisak. I'm a junior at Macalester College in St. Paul, MN, majoring in Geography with minors in Geospatial Science and Data Science. 
+
+Please see my [About](about.qmd) page to learn more. My [Projects](projects.qmd) page includes both academic and non-academic work, and my [Resources](resources.qmd) page includes materials that have been helpful in learning how to build this website. Thanks for visiting!

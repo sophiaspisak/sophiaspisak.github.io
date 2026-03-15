@@ -20,8 +20,8 @@ format:
   html:
     theme: styles.scss
     mainfont: Figtree
-    toc: true
     page-layout: full
+    toc: true
 
 editor: visual
 
