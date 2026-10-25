@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - media/remote_sensing.pdf
   output-dir: docs
 
 website:

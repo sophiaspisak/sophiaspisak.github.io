@@ -18,20 +18,20 @@
     "href": "index.html",
     "title": "Sophia Spisak",
     "section": "",
-    "text": "Hi! I’m Sophia Spisak. I’m a junior at Macalester College in St. Paul, MN, majoring in Geography with minors in Geospatial Science and Data Science.\nPlease see my About page to learn more. My Projects page includes both academic and non-academic work, and my Resources page includes materials that have been helpful in learning how to build this website. Thanks for visiting!"
+    "text": "Hi! I’m Sophia Spisak. I’m a senior at Macalester College in St. Paul, MN, majoring in Geography with minors in Geospatial Science and Data Science.\nPlease see the Projects tab for samples of my academic work; more will be added as time allows. My Resources page includes materials that have been helpful in learning how to build this website.\nThank you for visiting my website."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "More coming soon!"
+    "text": "Remote Sensing\nFor my Introduction to Remote Sensing class, I independently researched how early-winter snow cover has changed in Minnesota across the past two decades. I used Python and RStudio to process 700 MODIS satellite images. Please see this presentation for an overview of the process and results.\n\n\nAdditional projects will be added soon."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Education\nMacalester College (2024-present)  BA in Geography with Geospatial Science and Data Science minors, expected Spring 2027\nCarleton College (2023-2024)\n\n\nExperience\nGIS Intern (Summer of 2025) AET | St. Paul, MN\nAmericorps Housing Stability Fellow (Summer of 2024) St. Andrew’s Lutheran Church | Mahtomedi, MN\nOffice Assistant (2024-present) Macalester Fund | St. Paul, MN\nAssistant Nordic Ski Coach (2023-present) Mounds Park Academy | St. Paul, MN"
+    "text": "Education\nMacalester College (2024-present)  BA in Geography with Geospatial Science and Data Science minors, expected Spring 2027\nCarleton College (2023-2024)\n\n\nProfessional Experience\nGIS Intern (Summers of 2025, 2026) AET | St. Paul, MN\nAmericorps Housing Stability Fellow (Summer of 2024) St. Andrew’s Lutheran Church | Mahtomedi, MN\nOffice Assistant (2024-present) Macalester Fund | St. Paul, MN\nAssistant Nordic Ski Coach (2023-present) Mounds Park Academy | St. Paul, MN"
   }
 ]

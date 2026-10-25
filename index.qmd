@@ -19,6 +19,8 @@ about:
 \
 \
 
-Hi! I'm Sophia Spisak. I'm a junior at Macalester College in St. Paul, MN, majoring in Geography with minors in Geospatial Science and Data Science. 
+Hi! I'm Sophia Spisak. I'm a senior at Macalester College in St. Paul, MN, majoring in Geography with minors in Geospatial Science and Data Science. 
 
-Please see my [About](about.qmd) page to learn more. My [Projects](projects.qmd) page includes both academic and non-academic work, and my [Resources](resources.qmd) page includes materials that have been helpful in learning how to build this website. Thanks for visiting!
+Please see the [Projects](projects.qmd) tab for samples of my academic work; more will be added as time allows. My [Resources](resources.qmd) page includes materials that have been helpful in learning how to build this website. 
+
+Thank you for visiting my website.

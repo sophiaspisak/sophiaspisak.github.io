@@ -1,5 +1,12 @@
 ---
 title: "Projects"
+resources:
+  - media/remote_sensing.pdf
 ---
 
-More coming soon!
+### Remote Sensing
+For my Introduction to Remote Sensing class, I independently researched how early-winter snow cover has changed in Minnesota across the past two decades. I used Python and RStudio to process 700 MODIS satellite images. Please see [this presentation](media/remote_sensing.pdf) for an overview of the process and results.
+\
+\
+\
+*Additional projects will be added soon.*
